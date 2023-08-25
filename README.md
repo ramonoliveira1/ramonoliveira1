@@ -25,3 +25,7 @@
   <a href="https://instagram.com/1ramonzera" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://portfolio-ramon.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Meu%20-Portfólio-orange?style=for-the-badge" target="_blank"></a>
 </div>
+
+##
+
+![Snake animation](https://github.com/ramonoliveira1/ramonoliveira1/blob/output/github-contribution-grid-snake.svg)
