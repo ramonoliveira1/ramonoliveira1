@@ -3,6 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonoliveira1&show_icons=true&theme=great-gatsby)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonoliveira1&layout=compact&theme=great-gatsby)
 
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ramonoliveira1&show_icons=true&include_all_commits=true&theme=great-gatsby&hide_border=true" alt="Ramon's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonoliveira1&layout=compact&theme=great-gatsby&hide_border=true" /></a> |
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
