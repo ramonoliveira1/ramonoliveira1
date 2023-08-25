@@ -1,6 +1,7 @@
 ### Oi, eu sou o Ramon! (Não o Goku 😢)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonoliveira1&show_icons=true&theme=great-gatsby)(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonoliveira1&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonoliveira1&layout=compact)
 
 
 - 🔭 I’m currently working on ...
