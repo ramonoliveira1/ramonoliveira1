@@ -1,4 +1,4 @@
-## Oi, eu sou o Ramon! (Não o Goku 😢)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=+Olá,+seja+bem+vindo!;+Meu+nome+é+Ramon!;Tenho+23+anos)](https://git.io/typing-svg)<div><br><h3>
 
 <a href="https://github.com/ramonoliveira1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonoliveira1&show_icons=true&theme=great-gatsby">
