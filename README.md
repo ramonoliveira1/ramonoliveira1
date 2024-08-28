@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFAC1C&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9ab0c1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFAC1C&size=50&center=true&vCenter=true&width=1000&lines=+Olá,+seja+bem+vindo!;+Meu+nome+é+Ramon!;Tenho+23+anos)](https://git.io/typing-svg)<div><br><h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9ab0c1&size=50&center=true&vCenter=true&width=1000&lines=+Hey,+there!;+I+am+Ramon!)](https://git.io/typing-svg)<div><br><h3>
 
 <a href="https://github.com/ramonoliveira1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonoliveira1&show_icons=true&theme=great-gatsby">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonoliveira1&layout=compact&theme=great-gatsby">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonoliveira1&show_icons=true&theme=nord">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonoliveira1&layout=compact&theme=nord">
 </a>
 
 ##
