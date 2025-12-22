@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=ECEFF4&center=true&vCenter=true&width=600&lines=Software+Engineer;Go+(Golang)+%26+PHP;IoT+Solutions)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=ECEFF4&center=true&vCenter=true&width=600&lines=Software+Engineer;Go+(Golang)+%26+PHP)](https://git.io/typing-svg)
 
   <p align="center">
      Engineered for scalability. Focused on performance.
